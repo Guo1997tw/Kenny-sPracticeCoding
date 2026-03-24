@@ -1,0 +1,14 @@
+E:\slnUnitTestPractise\MyTestProgram\bin\Debug\net8.0\MyTestProgram.exe
+E:\slnUnitTestPractise\MyTestProgram\bin\Debug\net8.0\MyTestProgram.deps.json
+E:\slnUnitTestPractise\MyTestProgram\bin\Debug\net8.0\MyTestProgram.runtimeconfig.json
+E:\slnUnitTestPractise\MyTestProgram\bin\Debug\net8.0\MyTestProgram.dll
+E:\slnUnitTestPractise\MyTestProgram\bin\Debug\net8.0\MyTestProgram.pdb
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.AssemblyInfoInputs.cache
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.AssemblyInfo.cs
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.csproj.CoreCompileInputs.cache
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.dll
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\refint\MyTestProgram.dll
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.pdb
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\MyTestProgram.genruntimeconfig.cache
+E:\slnUnitTestPractise\MyTestProgram\obj\Debug\net8.0\ref\MyTestProgram.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\slnSendMail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7090FEC-5ED1-45FF-A0EB-36BB9AAB78F9}|prjSendMail\\prjSendMail.csproj|d:\\slnsendmail\\prjsendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7090FEC-5ED1-45FF-A0EB-36BB9AAB78F9}|prjSendMail\\prjSendMail.csproj|solutionrelative:prjsendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\slnSendMail\\prjSendMail\\Program.cs",
+              "RelativeDocumentMoniker": "prjSendMail\\Program.cs",
+              "ToolTip": "D:\\slnSendMail\\prjSendMail\\Program.cs",
+              "RelativeToolTip": "prjSendMail\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:22:19.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

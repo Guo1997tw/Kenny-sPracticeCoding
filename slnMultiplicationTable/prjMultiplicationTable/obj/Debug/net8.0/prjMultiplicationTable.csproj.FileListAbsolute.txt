@@ -1,0 +1,14 @@
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\bin\Debug\net8.0\prjMultiplicationTable.exe
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\bin\Debug\net8.0\prjMultiplicationTable.deps.json
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\bin\Debug\net8.0\prjMultiplicationTable.runtimeconfig.json
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\bin\Debug\net8.0\prjMultiplicationTable.dll
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\bin\Debug\net8.0\prjMultiplicationTable.pdb
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.AssemblyInfoInputs.cache
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.AssemblyInfo.cs
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.csproj.CoreCompileInputs.cache
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.dll
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\refint\prjMultiplicationTable.dll
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.pdb
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\prjMultiplicationTable.genruntimeconfig.cache
+E:\KennyGitHub\slnMultiplicationTable\prjMultiplicationTable\obj\Debug\net8.0\ref\prjMultiplicationTable.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KennyGitHub\\slnUnitTestPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3B9653-CAB5-4A43-86DF-C92B7293BBE4}|prjMS.Test\\prjMS.Test.csproj|e:\\kennygithub\\slnunittestpractise\\prjms.test\\topicmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3B9653-CAB5-4A43-86DF-C92B7293BBE4}|prjMS.Test\\prjMS.Test.csproj|solutionrelative:prjms.test\\topicmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A510665F-F62C-4B1B-8816-75CD13C7B2EB}|prjNUnit.Test\\prjNUnit.Test.csproj|e:\\kennygithub\\slnunittestpractise\\prjnunit.test\\topicunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510665F-F62C-4B1B-8816-75CD13C7B2EB}|prjNUnit.Test\\prjNUnit.Test.csproj|solutionrelative:prjnunit.test\\topicunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3B9653-CAB5-4A43-86DF-C92B7293BBE4}|prjMS.Test\\prjMS.Test.csproj|e:\\kennygithub\\slnunittestpractise\\prjms.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3B9653-CAB5-4A43-86DF-C92B7293BBE4}|prjMS.Test\\prjMS.Test.csproj|solutionrelative:prjms.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopicMSTest.cs",
+              "DocumentMoniker": "E:\\KennyGitHub\\slnUnitTestPractise\\prjMS.Test\\TopicMSTest.cs",
+              "RelativeDocumentMoniker": "prjMS.Test\\TopicMSTest.cs",
+              "ToolTip": "E:\\KennyGitHub\\slnUnitTestPractise\\prjMS.Test\\TopicMSTest.cs",
+              "RelativeToolTip": "prjMS.Test\\TopicMSTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:31:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\KennyGitHub\\slnUnitTestPractise\\prjMS.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "prjMS.Test\\UnitTest1.cs",
+              "ToolTip": "E:\\KennyGitHub\\slnUnitTestPractise\\prjMS.Test\\UnitTest1.cs",
+              "RelativeToolTip": "prjMS.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:30:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopicUnitTest.cs",
+              "DocumentMoniker": "E:\\KennyGitHub\\slnUnitTestPractise\\prjNUnit.Test\\TopicUnitTest.cs",
+              "RelativeDocumentMoniker": "prjNUnit.Test\\TopicUnitTest.cs",
+              "ToolTip": "E:\\KennyGitHub\\slnUnitTestPractise\\prjNUnit.Test\\TopicUnitTest.cs",
+              "RelativeToolTip": "prjNUnit.Test\\TopicUnitTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:49:57.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

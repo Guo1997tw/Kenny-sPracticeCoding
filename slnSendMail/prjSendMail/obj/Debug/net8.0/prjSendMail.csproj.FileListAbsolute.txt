@@ -1,0 +1,15 @@
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\prjSendMail.exe
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\prjSendMail.deps.json
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\prjSendMail.runtimeconfig.json
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\prjSendMail.dll
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\prjSendMail.pdb
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.GeneratedMSBuildEditorConfig.editorconfig
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.AssemblyInfoInputs.cache
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.AssemblyInfo.cs
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.csproj.CoreCompileInputs.cache
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.dll
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\refint\prjSendMail.dll
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.pdb
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\prjSendMail.genruntimeconfig.cache
+D:\slnSendMail\prjSendMail\obj\Debug\net8.0\ref\prjSendMail.dll
+D:\slnSendMail\prjSendMail\bin\Debug\net8.0\Images\bird.png
